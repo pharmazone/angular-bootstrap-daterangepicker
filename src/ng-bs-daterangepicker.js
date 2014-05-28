@@ -39,8 +39,8 @@ var link = function($scope, $element, $attributes, ngModel, $compile, $parse){
             ngModel.$setViewValue({ startDate: moment().startOf('day').toDate(), endDate: moment().startOf('day').toDate() });
             return;
         }
-        $element.data('daterangepicker').startDate = moment(modelValue.startDate);
-        $element.data('daterangepicker').endDate = moment(modelValue.endDate);
+        $element.data('daterangepicker').setStartDate(moment(modelValue.startDate));
+        $element.data('daterangepicker').setEndDate(moment(modelValue.endDate));
         $element.data('daterangepicker').updateView();
         $element.data('daterangepicker').updateCalendars();
         $element.data('daterangepicker').updateInputText();
