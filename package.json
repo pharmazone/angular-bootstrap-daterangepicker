@@ -1,11 +1,11 @@
 {
   "name": "ng-bs-daterangepicker-plus",
   "description": "AngularJS directive for bootstrap-daterangepicker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "filename": "./src/ng-bs-daterangepicker.js",
   "homepage": "http://github.com/pharmazone/ng-bs-daterangepicker",
   "author": {
-    "name": "Alexey Mirniy, bse on work by Konstantin Yakushev and  Luis Farzati",
+    "name": "Alexey Mirniy, base on work by Konstantin Yakushev and  Luis Farzati",
     "email": "alexey.mirniy@gmail.com",
     "url": "http://github.com/pharmazone"
   },
