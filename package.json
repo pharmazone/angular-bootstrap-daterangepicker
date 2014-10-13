@@ -3,15 +3,15 @@
   "description": "AngularJS directive for bootstrap-daterangepicker",
   "version": "0.1.0",
   "filename": "./src/ng-bs-daterangepicker.js",
-  "homepage": "http://github.com/kojoru/ng-bs-daterangepicker",
+  "homepage": "http://github.com/pharmazone/ng-bs-daterangepicker",
   "author": {
-    "name": "Konstantin Yakushev, based on work by Luis Farzati",
-    "email": "kojo@kojo.ru",
-    "url": "http://github.com/kojoru"
+    "name": "Alexey Mirniy, bse on work by Konstantin Yakushev and  Luis Farzati",
+    "email": "alexey.mirniy@gmail.com",
+    "url": "http://github.com/pharmazone"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kojoru/ng-bs-daterangepicker.git"
+    "url": "git://github.com/pharmazone/ng-bs-daterangepicker.git"
   },
   "keywords": [
     "angular",
@@ -24,7 +24,7 @@
     "calendar"
   ],
   "bugs": {
-    "url": "http://github.com/kojoru/ng-bs-daterangepicker/issues"
+    "url": "http://github.com/pharmazone/ng-bs-daterangepicker/issues"
   },
   "dependencies": {
   },
